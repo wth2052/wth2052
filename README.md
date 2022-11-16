@@ -1,5 +1,5 @@
 <!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">--!>
-
+<!-- 색상 작성시 #은 제외하고 쓸것 --!>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <h3 align=center>Platforms & Languages</h3>
