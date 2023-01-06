@@ -55,5 +55,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <h3 align=center>💪Foreign language💪<h3>
 <h2>韓文：母語</h2>
+<h2>한국어 : 모국어</h2>
 <h2>中文：流利（日常對話至程式方面的話題皆可）</h2>
-<h2>英文：懂
+<h2>중국어 : 상 (일상대화 - 프로그래밍 방면 OK)</h2>
+<h2>英文：懂</h2>
+<h2>영어 : 보통
