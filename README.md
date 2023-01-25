@@ -67,8 +67,8 @@
 <h2>英文：懂</h2>
 <h2>영어 : 중하</h2>
 
-<h3>GITHUB STATS</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<h3>GITHUB STATS 클릭시 티스토리로 연결됩니다.</h3>
+<a href="https://tistory.com/wth2052">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
 </a>
 
