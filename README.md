@@ -34,7 +34,7 @@
 
 </p>
 
-<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
+<!--<h3 align="center"><b>🎮 Gaming 🎮</b></h3> --!>
 <p align="center">
 
 
@@ -68,4 +68,7 @@
 <h2>영어 : 중하</h2>
 
 <h3>GITHUB STATS</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
+</a>
+
