@@ -72,4 +72,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
 </a>
 
-![snake gif](https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg" />
