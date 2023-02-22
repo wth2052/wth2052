@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
-<!--<img src="https://img.shields.io/badge/E0234E?style=for-the-badge&logo=NestJS&logoColor=white">--!>
+<img src="https://img.shields.io/badge/E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 
 </br>
 <!--<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">--!>
