@@ -10,7 +10,6 @@
 
 <h3 align=center>⭐Currently Studying⭐ <h3>
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Typeorm-262607?style=for-the-badge&logo=Typeorm&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 </br>
 <!--<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">--!>
