@@ -70,9 +70,9 @@
 <h3>英文：懂</h3>
 <h3>영어 : 중하</h3>
 
-<h3>GITHUB STATS 클릭시 티스토리로 연결됩니다.</h3>
-<a href="https://wth2052.tistory.com">
+<!--h3>GITHUB STATS 클릭시 티스토리로 연결됩니다.</h3--!>
+<!--a href="https://wth2052.tistory.com"--!>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
-</a>
+<!--/a--!>
 
-<img align="center" src="https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg" />
+<!--img align="center" src="https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg" /--!>
