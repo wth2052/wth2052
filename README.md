@@ -17,13 +17,10 @@
 <!--<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">--!>
 
-
 </br>
 <!--<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">--!>
-
-
 <!--<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> --!>
 
 <!--<h3 align=center>🧰Tools 🧰<h3>--!>
@@ -37,10 +34,10 @@
 </p>
 
 <!--<h3 align="center"><b>🎮 Gaming 🎮</b></h3> --!>
-<p align="center">
+<!--p align="center"--!>
 
 
-</p>
+<!--/p--!>
 
 <h3 align=center>Others<h3>
 <!--img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"--!>
@@ -50,7 +47,7 @@
 <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">--!>
-<br>
+<!--br--!>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
@@ -72,7 +69,7 @@
 
 <!--h3>GITHUB STATS 클릭시 티스토리로 연결됩니다.</h3--!>
 <!--a href="https://wth2052.tistory.com"--!>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
 <!--/a--!>
 
 <!--img align="center" src="https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg" /--!>
