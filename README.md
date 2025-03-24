@@ -59,17 +59,5 @@
 <br>
 <!--<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">--!>
 <!--<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">--!>
-<h3 align=center>💪Foreign language💪<h3>
-<h3>韓文：母語</h3>
-<h3>한국어 : 모국어</h3>
-<h3>中文：精通（日常對話至程式方面的話題皆可）</h3>
-<h3>중국어 : 상 (일상대화 부터 프로그래밍 방면 OK)</h3>
-<h3>英文：懂</h3>
-<h3>영어 : 중하</h3>
-
-<!--h3>GITHUB STATS 클릭시 티스토리로 연결됩니다.</h3--!>
-<!--a href="https://wth2052.tistory.com"--!>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wth2052&show_icons=true&theme=dark" />
-<!--/a--!>
 
 <!--img align="center" src="https://github.com/wth2052/wth2052/blob/output/github-contribution-grid-snake.svg" /--!>
